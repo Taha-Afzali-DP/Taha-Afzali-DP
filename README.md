@@ -1,4 +1,3 @@
-# TahaAfzali-DP
 # Hi there 👋, I'm Taha Afzali
 
 ## 🌍 About Me
