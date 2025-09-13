@@ -11,8 +11,8 @@ My goal is to become a professional front-end developer and contribute to projec
 #### My Activity
 
 <div style="display: flex; justify-content: center; gap: 40px">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taha-Afzali-DP&theme=chartreuse-dark&show_icons=true" height="230" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Afzali-DP&layout=compact&theme=chartreuse-dark" height="210" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Taha-Afzali-DP&theme=chartreuse-dark&show_icons=true" height="200" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Afzali-DP&layout=compact&theme=chartreuse-dark" height="177" width="420"/>
 </div>
 
 ---
