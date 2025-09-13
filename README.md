@@ -1,6 +1,6 @@
 # Hi 👋, I'm Taha Afzali
 
-#### 🌍 About Me
+#### 🌍 **About Me**
 I am a **Front-End Developer** at the beginning of my professional journey, currently focused on learning and working with **JavaScript** and its frameworks.  
 My main interest lies in designing and implementing **modern, responsive, and user-friendly interfaces**.  
 
@@ -8,7 +8,8 @@ My goal is to become a professional front-end developer and contribute to projec
 
 ---
 
-#### My Activity
+
+<h4 align="center"><b>My Activity</b></h4>
 
 <div style="display: flex; justify-content: center; gap: 40px">
   <img src="https://github-readme-stats.vercel.app/api?username=Taha-Afzali-DP&theme=chartreuse-dark&show_icons=true" height="200" width="420"/>
@@ -17,7 +18,7 @@ My goal is to become a professional front-end developer and contribute to projec
 
 ---
 
-<h4 align="center">🚀 Skills</h4>
+<h4 align="center">🚀 <b>Skills</b></h4>
 
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50"/>
@@ -30,7 +31,7 @@ My goal is to become a professional front-end developer and contribute to projec
 
 ---
 
-<h4 align="center">📬 Contact Me</h4>
+<h4 align="center">📬 <b>Contact Me</b></h4>
 
 <div align="center" style="display: flex; justify-content: center; gap: 50px;">
   <!-- Instagram -->
