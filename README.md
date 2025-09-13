@@ -32,21 +32,21 @@ My goal is to become a professional front-end developer and contribute to projec
 
 <h4 align="center">📬 Contact Me</h4>
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px;">
+<div align="center" style="display: flex; justify-content: center; gap: 50px;">
   <!-- Instagram -->
   <a href="https://www.instagram.com/YourInstagramUsername" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="Instagram" width="40" height="40"/>
   </a>
 
   
  <!-- WhatsApp -->
   <a href="https://wa.me/YourPhoneNumber" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"  alt="WhatsApp" width="40" height="40"/>
   </a>
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/YourLinkedInUsername" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" style="margin: 0 10px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"  width="40" style="margin: 0 10px;"/>
   </a>
 </div>
 
