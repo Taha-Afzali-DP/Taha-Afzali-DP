@@ -1,11 +1,7 @@
 # Hi 👋, I'm Taha Afzali
 
 #### 🌍 **About Me**
-I am a **Front-End Developer** at the beginning of my professional journey, currently focused on learning and working with **JavaScript** and its frameworks.  
-My main interest lies in designing and implementing **modern, responsive, and user-friendly interfaces**.  
-
-My goal is to become a professional front-end developer and contribute to projects that deliver not only **high technical quality** but also an **excellent user experience**. 🚀
-
+Front-End Developer | Passionate about crafting modern, responsive UIs with JavaScript. Focused on growth and delivering top-notch user experiences. 🚀
 ---
 
 
