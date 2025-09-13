@@ -53,5 +53,5 @@ My goal is to become a professional front-end developer and contribute to projec
 
 ---
 
-✨ *"Scientists discover what is. But programmers create what is not."* ✨
+<div align="center" style="display: flex; justify-content: center;">✨ *"Scientists discover what is. But programmers create what is not."* ✨</div>
 
