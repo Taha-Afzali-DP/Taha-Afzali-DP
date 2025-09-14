@@ -43,13 +43,13 @@ Front-End Developer | Passionate about crafting modern, responsive UIs with Java
 ---
 
 
-<h4 align="center"><b>My Activity</b></h4>
+<h4 align="center" style="font-size: 64px"><b>My Activity</b></h4>
 <div style="display: flex; justify-content: center;gap: 40px "width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=Taha-Afzali-DP&theme=chartreuse-dark&show_icons=true" height="200" width="412"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Afzali-DP&layout=compact&theme=chartreuse-dark" height="170" width="412"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Afzali-DP&layout=compact&theme=chartreuse-dark" height="173" width="412"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-Afzali-DP&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" height="200" width="412">
+<img src="https://streak-stats.demolab.com?user=Taha-Afzali-DP&theme=dark&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff&hide_border=true" height="200" width="412">
 </div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-Afzali-DP&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true">
-<img src="https://streak-stats.demolab.com?user=Taha-Afzali-DP&theme=dark&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff&hide_border=true" width="1012">
 
 ---
 
