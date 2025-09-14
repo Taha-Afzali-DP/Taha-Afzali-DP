@@ -17,7 +17,7 @@ Front-End Developer | Passionate about crafting modern, responsive UIs with Java
 <h4 align="center">🚀 <b>Skills</b></h4>
 
 <div align="center" style="margin-bottom: 30px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" margin-bottom= "7px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" style="margin-bottom:7px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50"/>
   <img src="https://github.com/user-attachments/assets/a45faf29-6aef-4d0e-9682-6baca376f2fe" alt="js-logo" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50"/>
