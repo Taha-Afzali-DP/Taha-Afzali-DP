@@ -47,11 +47,12 @@ Front-End Developer | Passionate about crafting modern, responsive UIs with Java
 <div style="display: flex; justify-content: center;align-items:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Taha-Afzali-DP&theme=chartreuse-dark&show_icons=true" height="200" width="412"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Afzali-DP&layout=compact&theme=chartreuse-dark" height="173" width="412"/>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-Afzali-DP&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true"  width="100%" height="250">
+<img src="https://streak-stats.demolab.com?user=Taha-Afzali-DP&theme=dark&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff&hide_border=true" width="100%"height="173">
 </div>
-<img src="https://streak-stats.demolab.com?user=Taha-Afzali-DP&theme=dark&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff&hide_border=true" width="412"height="173">
 
 ---
+<h4> 📈Contribution</h4>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-Afzali-DP&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true">
 
 <div align="center" style="display: flex; justify-content: center;">✨ *"Scientists discover what is. But programmers create what is not."* ✨</div>
 
