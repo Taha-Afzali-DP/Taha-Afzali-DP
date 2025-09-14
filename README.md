@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/b5754bdc-fe36-4e8d-8d4a-0c2dab6f414d" width="100%">
+
 # Hi 👋, I'm Taha Afzali
 
 #### 🌍 **About Me**
