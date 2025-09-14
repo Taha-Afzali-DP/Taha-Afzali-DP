@@ -51,7 +51,9 @@ Front-End Developer | Passionate about crafting modern, responsive UIs with Java
 </div>
 
 ---
-<h4> 📈Contribution</h4>
+<h4 align="center">📈 <b>Contribution</b></h4>
+
+ 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-Afzali-DP&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true">
 
 <div align="center" style="display: flex; justify-content: center;">✨ *"Scientists discover what is. But programmers create what is not."* ✨</div>
