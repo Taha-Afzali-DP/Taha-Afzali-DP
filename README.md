@@ -21,9 +21,10 @@ Front-End Developer | Passionate about crafting modern, responsive UIs with Java
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50"/>
   <img src="https://github.com/user-attachments/assets/08258f12-018d-48e7-8fdc-4bc3a93d2855" alt="javaScript" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" style="filter: invert(1);"/>
+  <img  height="50" alt="git hub" src="https://github.com/user-attachments/assets/f2b9421a-8bd8-4578-b129-68a2c3c8e1ef" width="50" style="filter: invert(1);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50"/>
 </div>
+
 
 ---
 
