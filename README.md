@@ -45,6 +45,9 @@ Front-End Developer | Passionate about crafting modern, responsive UIs with Java
 
 ---
 
+<img src="https://github-profile-trophy.vercel.app/?username=Taha-Afzali-DP&theme=matrix">
+
+---
 
 <h4 align="center" style="font-size: 64px">📊&nbsp;<b>My Stats</b></h4>
 <div style="display: flex; justify-content: center;align-items:center;">
