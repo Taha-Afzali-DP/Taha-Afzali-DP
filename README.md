@@ -9,7 +9,7 @@ Front-End Developer | Passionate about crafting modern, responsive UIs with Java
 
 <h4 align="center">🚀&nbsp;<b>Skills</b></h4>
 
-<div align="center" style="margin-bottom: 30px;">
+<div style="margin-bottom: 30px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" style="margin-bottom:7px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50"/>
   <img src="https://github.com/user-attachments/assets/08258f12-018d-48e7-8fdc-4bc3a93d2855" alt="javaScript" width="50" height="50" />
@@ -23,7 +23,7 @@ Front-End Developer | Passionate about crafting modern, responsive UIs with Java
 
 <h4 align="center">📬&nbsp;<b>Contact Me</b></h4>
 
-<div align="center" style="display: flex; justify-content: center; gap: 50px;">
+<div style="display: flex; justify-content: center; gap: 50px;">
   <!-- Instagram -->
   <a href="https://www.instagram.com/elfo_dp?igsh=MXIydjkyZGZmNjYzNQ==" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="Instagram" width="40" height="40"/>
