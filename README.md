@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Taha Afzali
 
-#### 🌍 **About Me**
+<h4 align="center"> 🌍<b> About Me</b></h4>
 Front-End Developer | Passionate about crafting modern, responsive UIs with JavaScript. Focused on growth and delivering top-notch user experiences. 🚀
 ---
 
