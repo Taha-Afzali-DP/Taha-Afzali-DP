@@ -4,6 +4,7 @@
 
 <h4 align="center">🌍&nbsp;<b> About Me</b></h4>
 Front-End Developer | Passionate about crafting modern, responsive UIs with JavaScript. Focused on growth and delivering top-notch user experiences. 🚀
+
 ---
 
 <h4 align="center">🚀&nbsp;<b>Skills</b></h4>
