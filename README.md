@@ -2,11 +2,11 @@
 
 <h1 align="center">Hey guys, I'm Taha Afzali</h1>
 
-<h4 align="center">🌍 &nbsp;<b> About Me</b></h4>
+<h4 align="center">🌍&nbsp;<b> About Me</b></h4>
 Front-End Developer | Passionate about crafting modern, responsive UIs with JavaScript. Focused on growth and delivering top-notch user experiences. 🚀
 ---
 
-<h4 align="center">🚀 &nbsp;<b>Skills</b></h4>
+<h4 align="center">🚀&nbsp;<b>Skills</b></h4>
 
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" style="margin-bottom:7px;"/>
@@ -20,7 +20,7 @@ Front-End Developer | Passionate about crafting modern, responsive UIs with Java
 
 ---
 
-<h4 align="center">📬 &nbsp;<b>Contact Me</b></h4>
+<h4 align="center">📬&nbsp;<b>Contact Me</b></h4>
 
 <div align="center" style="display: flex; justify-content: center; gap: 50px;">
   <!-- Instagram -->
@@ -43,7 +43,7 @@ Front-End Developer | Passionate about crafting modern, responsive UIs with Java
 ---
 
 
-<h4 align="center" style="font-size: 64px">📊 &nbsp;<b>My Activity</b></h4>
+<h4 align="center" style="font-size: 64px">📊&nbsp;<b>My Activity</b></h4>
 <div style="display: flex; justify-content: center;align-items:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Taha-Afzali-DP&theme=chartreuse-dark&show_icons=true" height="200" width="412"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Afzali-DP&layout=compact&theme=chartreuse-dark" height="173" width="412"/>
