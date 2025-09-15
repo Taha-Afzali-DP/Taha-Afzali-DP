@@ -2,6 +2,10 @@
 
 <h1 align="center">Hey guys&nbsp;🙋‍♂️, I'm Taha Afzali</h1>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Taha-Afzali-DP&theme=matrix">
+
+---
+
 <h4 align="center">🌍&nbsp;<b> About Me</b></h4>
 Front-End Developer | Passionate about crafting modern, responsive UIs with JavaScript. Focused on growth and delivering top-notch user experiences. 🚀
 
@@ -45,9 +49,6 @@ Front-End Developer | Passionate about crafting modern, responsive UIs with Java
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=Taha-Afzali-DP&theme=matrix">
-
----
 
 <h4 align="center" style="font-size: 64px">📊&nbsp;<b>My Stats</b></h4>
 <div style="display: flex; justify-content: center;align-items:center;">
