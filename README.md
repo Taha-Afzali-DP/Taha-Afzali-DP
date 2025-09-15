@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/b5754bdc-fe36-4e8d-8d4a-0c2dab6f414d" width="100%">
 
-# Hi 👋, I'm Taha Afzali
+<h1 align="center">Hi 👋, I'm Taha Afzali</h1>
 
 <h4 align="center"> 🌍<b> About Me</b></h4>
 Front-End Developer | Passionate about crafting modern, responsive UIs with JavaScript. Focused on growth and delivering top-notch user experiences. 🚀
