@@ -20,8 +20,8 @@ Front-End Developer | Passionate about crafting modern, responsive UIs with Java
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50"/>
   <img  height="50" alt="git hub" src="https://github.com/user-attachments/assets/f2b9421a-8bd8-4578-b129-68a2c3c8e1ef" width="50" style="filter: invert(1);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50"/>
-  
   <img width="50" height="50" alt="Visual_Studio_Icon_2022 s" src="https://github.com/user-attachments/assets/b131a89d-411b-4b1f-9f8f-49126d477824" />
+  <img width="50" height="50" alt="wordressIcon" src="https://github.com/user-attachments/assets/a2eca642-bb50-4308-9723-081772bf8cec" />
 </div>
 
 
