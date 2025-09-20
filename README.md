@@ -27,7 +27,7 @@ Front-End Developer | Passionate about crafting modern, responsive UIs with Java
 
 ---
 
-<h4 align="center">📬&nbsp;<b>Contact Me</b></h4>
+<h4 align="center">📞&nbsp;<b>Contact Me</b></h4>
 
 <div style="display: flex; justify-content: center; gap: 50px;">
   <!-- Instagram -->
