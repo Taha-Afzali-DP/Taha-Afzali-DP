@@ -1,6 +1,7 @@
 <img src="https://github.com/user-attachments/assets/b5754bdc-fe36-4e8d-8d4a-0c2dab6f414d" width="100%">
 <h1 align="center">Hey guys&nbsp;🙋‍♂️, I'm Taha Afzali</h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Taha-Afzali-DP&theme=matrix">
+
 ---
 <h4 align="center">🌍&nbsp;<b> About Me</b></h4>
 Front-End Developer | Passionate about crafting modern, responsive UIs with JavaScript. Focused on growth and delivering top-notch user experiences. 🚀
